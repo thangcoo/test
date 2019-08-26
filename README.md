@@ -10,6 +10,8 @@
 
 signin/collect5   选择完后选项溢出
 home/notice/index.vue   公告详情块修改 删除v-if="noticeList.author==user.userId"
+challenge/team/select   div.center加padding
 
+/home/notice?noticeId=50  公告详情 页面滚动时头部是否需要固定
 
 18607369132
